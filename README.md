@@ -1,22 +1,5 @@
-### Hi there 👋
 
-<!--
-**srikanthhub/srikanthhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-#  Hi, I'm Srikanth 👋🏾 💻
+#  Hi, I'm Srikanth 👋🏾 💻   
 
 I'm a Full stack developer experinced in C#.net, Azure, React JS technologies, 
 I am currently working for Tech mahindra
@@ -24,10 +7,11 @@ I am currently working for Tech mahindra
 - 	7+ years’ experience Professional with good experience in Software Development Life Cycle Methodologies like Agile, Waterfall, Test-Driven Development (TDD) and Design Patterns.
 - 	Experience in designing and developing web based and windows based applications using ASP.Net, C#.Net, React JS, Redux, Angular JS, ADO.Net, Web Services, Web API, IIS, Java Script, JQuery, HTML.
 
+
 ### Certifications	
 
--	Microsoft Azure fundamentals AZ-900
--	Azure Developer Associate AZ-204
+-	Microsoft Azure fundamentals [AZ-900](https://www.youracclaim.com/badges/62e1e1aa-0580-4d75-88c7-68cc66da8684/public_url)
+-	Azure Developer Associate [AZ-204](https://www.youracclaim.com/badges/1e2aa500-973f-4a18-b17d-d41d1140db19/public_url)
 -	Blue Prism Accredited Developer
 -	ISTQB Foundation level
 -	DHS Trusted Tester
