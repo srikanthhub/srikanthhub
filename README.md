@@ -4,14 +4,16 @@
 I'm a Full stack developer experinced in C#.net, Azure, React JS technologies, 
 I am currently working for Tech mahindra
 
-- 	7+ years’ experience Professional with good experience in Software Development Life Cycle Methodologies like Agile, Waterfall, Test-Driven Development (TDD) and Design Patterns.
+- 	9+ years’ experience Professional with good experience in Software Development Life Cycle Methodologies like Agile, Waterfall, Test-Driven Development (TDD) and Design Patterns.
 - 	Experience in designing and developing web based and windows based applications using ASP.Net, C#.Net, React JS, Redux, Angular JS, ADO.Net, Web Services, Web API, IIS, Java Script, JQuery, HTML.
+- 	Certified Azure Architect 
 
 
 ### Certifications	
 
 -	Microsoft Azure fundamentals [AZ-900](https://www.youracclaim.com/badges/62e1e1aa-0580-4d75-88c7-68cc66da8684/public_url)
 -	Azure Developer Associate [AZ-204](https://www.youracclaim.com/badges/1e2aa500-973f-4a18-b17d-d41d1140db19/public_url)
+-	Azure Solutions Architect Expert [AZ-304](https://www.credly.com/badges/369dc1b7-8f93-4d9f-9203-977d995d7695/public_url)
 -	Blue Prism Accredited Developer
 -	ISTQB Foundation level
 -	DHS Trusted Tester
