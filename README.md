@@ -1,6 +1,6 @@
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://twitter.com/srikanth1110)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/srikanthvuduta/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=Instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/srikanth.vudutha/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/srikanth1110)
 
@@ -68,8 +68,8 @@ I am currently working for Tech mahindra
 
 ## Find me around the web 🌎: 
 
-- [LinkedIn](https://twitter.com/srikanth1110) 💻
-- [Twitter](https://www.linkedin.com/in/srikanthvuduta/) :bird:
+- [LinkedIn](https://www.linkedin.com/in/srikanthvuduta/) 💻
+- [Twitter](https://twitter.com/srikanth1110) :bird:
 - [Instagram](https://www.instagram.com/srikanth.vudutha/) 📸
 
  
