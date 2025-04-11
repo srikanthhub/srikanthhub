@@ -7,18 +7,20 @@
 #  Hi, I'm Srikanth 👋🏾 💻   
 
 I'm a Full stack developer experinced in C#.net, Azure, React JS technologies, 
-I am currently working for Tech mahindra
+I am currently working for ValueLabs
 
-- 	9+ years’ experience Professional with good experience in Software Development Life Cycle Methodologies like Agile, Waterfall, Test-Driven Development (TDD) and Design Patterns.
+- 	10+ years’ experience Professional with good experience in Software Development Life Cycle Methodologies like Agile, Waterfall, Test-Driven Development (TDD) and Design Patterns.
 - 	Experience in designing and developing web based and windows based applications using ASP.Net, C#.Net, React JS, Redux, Angular JS, ADO.Net, Web Services, Web API, IIS, Java Script, JQuery, HTML.
 - 	Certified Azure Architect 
 
 
 ### Certifications	
 
--	Microsoft Azure fundamentals [AZ-900](https://www.youracclaim.com/badges/62e1e1aa-0580-4d75-88c7-68cc66da8684/public_url)
--	Azure Developer Associate [AZ-204](https://www.youracclaim.com/badges/1e2aa500-973f-4a18-b17d-d41d1140db19/public_url)
--	Azure Solutions Architect Expert [AZ-304](https://www.credly.com/badges/369dc1b7-8f93-4d9f-9203-977d995d7695/public_url)
+-	Microsoft Azure fundamentals [AZ-900](https://learn.microsoft.com/en-us/users/srikanthv-6408/credentials/e531bdc15cf49981)
+-	Azure Developer Associate [AZ-204](https://learn.microsoft.com/en-us/users/srikanthv-6408/credentials/233af24237266dfa)
+-	Azure Solutions Architect Expert [AZ-304](https://learn.microsoft.com/en-us/users/srikanthv-6408/credentials/ccb4b114cdf91ae6)
+-	Azure Administrator Associate [AZ-104](https://learn.microsoft.com/en-us/users/srikanthv-6408/credentials/65052430bbe607a5)
+-	Azure AI Engineer Associate [AZ-102](https://learn.microsoft.com/en-us/users/srikanthv-6408/credentials/57e855358c4fae78)
 -	Blue Prism Accredited Developer
 -	ISTQB Foundation level
 -	DHS Trusted Tester
