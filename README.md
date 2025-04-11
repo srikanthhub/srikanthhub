@@ -13,7 +13,6 @@ Whether it's modernizing legacy systems, building cloud-native solutions, or exp
 I am currently working for ValueLabs
 
 My technical expertise spans across:
-- 	10+ years’ experience Professional with good experience in Software Development Life Cycle Methodologies like Agile, Waterfall, Test-Driven Development (TDD) and Design Patterns.
 - 	Frontend: React JS, Redux, AngularJS, JavaScript, HTML5, CSS3, jQuery
 - 	Backend: ASP.NET Core, C#, Web API, ADO.NET, Entity Framework
 - 	Cloud: Microsoft Azure Certified Architect, with hands-on experience in Azure Functions, App Services, Azure AD, APIM, Key Vault, Storage Services, Redis Cache, and CI/CD pipelines
