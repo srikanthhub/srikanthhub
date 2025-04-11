@@ -6,11 +6,18 @@
 
 #  Hi, I'm Srikanth 👋🏾 💻   
 
-I'm a Full stack developer experinced in C#.net, Azure, React JS technologies, 
+I am a passionate and results-driven Senior Software Engineer with 11+ years of experience in full-stack software development, cloud architecture, and emerging AI technologies. I specialize in designing, developing, and delivering high-quality, scalable, and secure web applications using .NET (ASP.NET Core, C#), React JS, TypeScript, and SQL Server.
+I'm known for my strong debugging and problem-solving skills, leadership, and ability to translate business requirements into technical solutions. I thrive in collaborative team environments, but I'm equally comfortable taking ownership of individual projects and driving them to completion.
+Whether it's modernizing legacy systems, building cloud-native solutions, or exploring AI integrations—I'm passionate about leveraging technology to solve real-world problems and drive innovation.
+
 I am currently working for ValueLabs
 
+My technical expertise spans across:
 - 	10+ years’ experience Professional with good experience in Software Development Life Cycle Methodologies like Agile, Waterfall, Test-Driven Development (TDD) and Design Patterns.
-- 	Experience in designing and developing web based and windows based applications using ASP.Net, C#.Net, React JS, Redux, Angular JS, ADO.Net, Web Services, Web API, IIS, Java Script, JQuery, HTML.
+- 	Frontend: React JS, Redux, AngularJS, JavaScript, HTML5, CSS3, jQuery
+- 	Backend: ASP.NET Core, C#, Web API, ADO.NET, Entity Framework
+- 	Cloud: Microsoft Azure Certified Architect, with hands-on experience in Azure Functions, App Services, Azure AD, APIM, Key Vault, Storage Services, Redis Cache, and CI/CD pipelines
+- 	AI & Innovation: Currently diving deep into Generative AI, exploring OpenAI, Gemini, DeepSeek APIs, and building AI agents for intelligent automation and productivity tools.
 - 	Certified Azure Architect 
 
 
